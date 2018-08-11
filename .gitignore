@@ -1,0 +1,4 @@
+# Tipos de arquivos a serem ignorados
+
+!.gitignore
+*/
